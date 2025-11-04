@@ -6,8 +6,11 @@
 ---
 
 ![Screenshot dell app](./images/screenshot1.png)
+
 ![Screenshot dell app](./images/screenshot2.png)
+
 ![Screenshot dell app](./images/screenshot3.png)
+
 ![Screenshot dell app](./images/screenshot4.png)
 
 
@@ -20,6 +23,7 @@
 | JS   | Logic      | s7       |
 | Node | Backend    | 22.20    |
 
+---
 👨‍💻
 ```bash
 
